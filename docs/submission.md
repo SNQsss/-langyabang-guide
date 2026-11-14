@@ -2,9 +2,7 @@
 
 ## 繳交標題
 
-待填：學校 學號 系級 姓名 瑯琊榜人物誌
-
-請依實際資料替換前四項，不使用範例或虛構學籍資料。
+待填：清大 114011701 工科系碩一 孫迺筌 瑯琊榜人物誌
 
 ## 1. 專案簡介
 
@@ -14,11 +12,11 @@
 
 ## 2. GitHub Repository 連結
 
-待使用者上傳後填入實際網址。
+https://github.com/SNQsss/-langyabang-guide
 
 ## 3. 網頁連結
 
-待使用者完成 GitHub Pages 發布後填入實際可瀏覽網址。本機預覽網址不能作為公開網站連結繳交。
+https://snqsss.github.io/-langyabang-guide/site/index.html
 
 ## 4. AGENTS.md
 
