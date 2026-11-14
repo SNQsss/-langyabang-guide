@@ -1,0 +1,8 @@
+琅琊榜_RAG文本/
+交付/
+.qa/
+node_modules/
+.DS_Store
+Thumbs.db
+*.log
+
