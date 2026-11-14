@@ -95,5 +95,5 @@ node scripts/check-extension.mjs
 - 原文版本與來源：本機 `琅琊榜_RAG文本/README.md`，海宴《琅琊榜》修訂本。來源頁為 [好讀書目](https://www.haodoo.net/?M=book&P=16O9)；目前未宣稱已與出版原書逐字校對。
 - 網站保存自行整理的介紹、章名與段落索引，不附原始全文。
 - 12 張劇照由使用者提供，原始下載網址尚未提供；待取得後填入 `content/characters.json` 的 `imageSource`。未宣稱圖片為自製或已取得特定授權。
-- GitHub Repository：https://github.com/SNQsss/-langyabang-guide。
-- 公開網站：https://snqsss.github.io/-langyabang-guide/site/index.html。
+- GitHub Repository：https://github.com/SNQsss/-langyabang-guide
+- 公開網站：https://snqsss.github.io/-langyabang-guide/site/index.html
