@@ -1,0 +1,25 @@
+{
+  "date": "2026-11-14",
+  "pages": 3,
+  "characters": 12,
+  "detailPages": [
+    "mei-changsu"
+  ],
+  "hashes": {
+    "web/app.js": "f94bf1eb9d9f8713e133a9a3c894b7e1eebb299dc62c797ad8c2a6c00202c055",
+    "web/favicon.svg": "2303fdbee8ee48f74fb74a453ab41803b8b0d11e52d439fccbe9bf9fd1453999",
+    "web/layout.mjs": "8af86f6cf522a075695bc0dca76bb311add49cdc6ee57680528177fe4174b73b",
+    "web/styles.css": "945bdc4a97e7dfdc3154aa1469b0ada9d951b9956be812a000241e2663d37bd2",
+    "scripts/build.mjs": "c7363c624da08f7a760414decc20f1fc6fd6cdf200666b8fb57a79c1b1ad9cf5",
+    "scripts/check-extension.mjs": "7972154c3d805602aec3ec6baa3add9cefb960f1f7c9526cd0d0b5b3ba4b9c0b",
+    "scripts/check.mjs": "86680eaffed021cd1870ac1a06cd4a163bb6c9e47bd2978ea3330c23cd5d1ecd",
+    "scripts/lib.mjs": "38dc4c93f0ae5443bbf3350b9aec95e2a6ad00873cb62dcb1f0fb0f56246e492",
+    "scripts/package.mjs": "eed3d21351d5201b276c4f0b99565e9cfb1e74e79fa5ab4c798ab259a2f07ce0",
+    "scripts/serve.mjs": "ebe4b1281eb37ad118157a0966ba8a3bb738fc48f4d659b1f741bc4dcaf29c5d",
+    "templates/character.md": "eec6536ad689be1d924e5981dac7ee91e0b9ae19a5b0d290d17d822d79b89c27",
+    "templates/event.md": "e22be65f8dfc1ce4824e8b4ce8788452bcbb162f5d9eedf64ca39c368cea644a",
+    "AGENTS.md": "96acac09b82dab30a644b1e57a5cbf04b96f6600078d6bba762e57d6ebd33546",
+    "content/characters.json": "2d672223f22f4e831ee3c08bc40b348eab52af3259655b40204f678e92b0af57",
+    "site/index.html": "5094b3577b7e7542eda706e366ac984d2c3fccffc77000219fd0cecfba82ebbf"
+  }
+}

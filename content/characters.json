@@ -1,0 +1,14 @@
+[
+  {"id":"mei-changsu","name":"梅長蘇","label":"江左梅郎","summary":"江左盟宗主，以蘇哲之名隨友人來到金陵休養。身體孱弱，卻以學識與從容氣度令人印象深刻。","image":"梅長蘇.webp","imageSource":null,"sources":["C01","C02"],"position":"50% 35%"},
+  {"id":"xiao-jingyan","name":"靖王・蕭景琰","label":"大梁皇七子","summary":"大梁皇七子，常年在外領兵。初登場時身形挺拔、帶有剛毅之氣，有著與城中其他皇子不同的軍旅背景。","image":"靖王・蕭景琰.jpg","imageSource":null,"sources":["C03"],"position":"50% 20%"},
+  {"id":"nihuang","name":"霓凰郡主","label":"南境女帥","summary":"雲南穆氏之女，代幼弟鎮守南境，統率十萬邊防鐵騎。她以出色戰功聞名，是朝廷倚重的南境女帥。","image":"霓凰郡主.jpg","imageSource":null,"sources":["C04"],"position":"50% 20%"},
+  {"id":"xiao-jingrui","name":"蕭景睿","label":"世家公子","summary":"兼具謝家與卓家公子身分，與言豫津交好。故事開場時，邀請梅長蘇同行入京休養。","image":"蕭景睿.jpeg","imageSource":null,"sources":["C05"],"position":"50% 20%"},
+  {"id":"yan-yujin","name":"言豫津","label":"國舅府公子","summary":"蕭景睿的好友，個性灑脫、喜愛熱鬧。遊歷途中，也曾主動護送受迫害的百姓進京申冤。","image":"言豫津.jpg","imageSource":null,"sources":["C06"],"position":"50% 22%"},
+  {"id":"meng-zhi","name":"蒙摯","label":"禁軍大統領","summary":"掌管京畿九門與五萬禁軍的大統領，位列一品將軍。武功高強，肩負守衛京城的職責。","image":"蒙摯.jpg","imageSource":null,"sources":["C07"],"position":"50% 22%"},
+  {"id":"fei-liu","name":"飛流","label":"少年護衛","summary":"跟隨梅長蘇的少年護衛，武功與身法出眾，外表冷峻孤清。與梅長蘇相處時十分親近，受到他的照顧。","image":"飛流.jpeg","imageSource":null,"sources":["C08"],"position":"50% 20%"},
+  {"id":"jing-fei","name":"靜妃","label":"靖王之母","summary":"靖王的生母，入宮前是醫女，熟悉藥療。她在宮中平日少言、行事低調，與靖王有著明確的母子關係。","image":"靜妃.jpg","imageSource":null,"sources":["C09"],"position":"50% 20%"},
+  {"id":"liang-di","name":"梁帝","label":"大梁天子","summary":"大梁當今天子，掌握朝廷決策與宮中大事。故事開場時，他為霓凰郡主的婚事安排公開比試。","image":"梁帝.jpg","imageSource":null,"sources":["C10"],"position":"50% 20%"},
+  {"id":"xiao-jingxuan","name":"太子・蕭景宣","label":"東宮儲君","summary":"大梁當朝太子，名蕭景宣。身處金陵皇室權力中心，與譽王同樣留意入京的江左名士梅長蘇。","image":"太子・蕭景宣.jpg","imageSource":null,"sources":["C11","C12"],"position":"50% 20%"},
+  {"id":"xiao-jinghuan","name":"譽王・蕭景桓","label":"大梁皇子","summary":"大梁皇子，受封譽王。曾奉旨照管御書房讀書的世家子弟，對梅長蘇的到來也十分關注。","image":"譽王・蕭景桓.jpg","imageSource":null,"sources":["C11","C12"],"position":"50% 20%"},
+  {"id":"xie-yu","name":"謝玉","label":"寧國侯","summary":"大梁寧國侯，受皇帝倚重，被稱為朝廷柱石。身為侯府主人，在梅長蘇入京時接待這位遠來的客人。","image":"謝玉.jpg","imageSource":null,"sources":["C13"],"position":"50% 20%"}
+]

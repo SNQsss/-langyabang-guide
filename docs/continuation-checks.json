@@ -1,0 +1,69 @@
+{
+  "pages_before": 3,
+  "pages_after": 4,
+  "characters": 12,
+  "detail_pages_before": 1,
+  "detail_pages_after": 2,
+  "source_groups": 39,
+  "raw_paragraph_references": 215,
+  "jingyan_paragraph_references": 83,
+  "external_raw_read_only": true,
+  "existing_source_groups_unchanged": true,
+  "baseline_changed": [
+    "web/layout.mjs",
+    "site/index.html"
+  ],
+  "standard_check": {
+    "pages": 4,
+    "characters": 12,
+    "linksAndAssets": 109,
+    "sourceGroups": 39,
+    "raw_in_package": "absent; checked separately against external read-only text"
+  },
+  "browser": {
+    "desktop_overflow": false,
+    "mobile_css_viewport": [
+      390,
+      844
+    ],
+    "mobile_client_width": 375,
+    "mobile_scroll_width": 375,
+    "default_no_spoilers": true,
+    "mode_switch": true,
+    "cross_page_mode": true,
+    "related_character_roundtrip": true,
+    "event_gate_regression": true,
+    "without_site_script_native_disclosure": true,
+    "console_warnings_or_errors": 0
+  },
+  "screenshots": {
+    "jingyan-before.jpg": {
+      "format": "JPEG",
+      "size": [
+        1054,
+        629
+      ]
+    },
+    "jingyan-after.jpg": {
+      "format": "JPEG",
+      "size": [
+        1265,
+        864
+      ]
+    },
+    "jingyan-desktop.jpg": {
+      "format": "JPEG",
+      "size": [
+        1265,
+        864
+      ]
+    },
+    "jingyan-mobile.jpg": {
+      "format": "JPEG",
+      "size": [
+        375,
+        812
+      ]
+    }
+  }
+}
