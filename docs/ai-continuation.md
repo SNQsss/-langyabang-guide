@@ -65,4 +65,4 @@ AGENTS.md、兩套範本、角色總覽資料、共用樣式、劇透互動與�
 - 桌面與手機成果：previews/jingyan-desktop.jpg、previews/jingyan-mobile.jpg。
 - 檢查結果：本文件、verification.md 與 continuation-checks.json。
 
-本案例支持「AI 能在既有規則與對應資料下完成一個新增角色案例」。過程仍包含來源核對、問題修正與驗收，不代表任意題材都能在無人檢查下正確完成。尚未上傳 GitHub 或驗證正式公開網址。
+本案例支持「AI 能在既有規則與對應資料下完成一個新增角色案例」。過程仍包含來源核對、問題修正與驗收，不代表任意題材都能在無人檢查下正確完成。
